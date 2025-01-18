@@ -17,5 +17,6 @@ int main() {
 			count++;
 		}
 	}
+	vac.close();
 	cout<<"The searched word occurred: "<< count<<" times";
 }
