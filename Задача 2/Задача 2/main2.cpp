@@ -2,7 +2,7 @@
 #include<fstream>
 #include<string>
 #include<vector>
-//C:\Users\vivas\Downloads\Telegram Desktop\vocabulary.txt
+
 using namespace std;
 
 void normal_read(string& add,vector<string>& buf) {
